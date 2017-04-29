@@ -1,0 +1,1760 @@
+atomVersion 1.0;
+mayaVersion 2017;
+mayaSceneFile C:/Users/Kayden/Desktop/260RProjects/Maya_260R/scenes/charater/R/Robot/robot1/03-Rig/robot_rig_01.ma;
+timeUnit film;
+linearUnit cm;
+angularUnit deg;
+startTime 1;
+endTime 112;
+dagNode {
+  lowerbody2 1 4;
+  anim rotate.rotateX rotateX 0;
+  animData {
+    input time;
+    output angular;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 0 auto auto 1 0 0;
+      2 0 auto auto 1 0 0;
+      3 0 auto auto 1 0 0;
+      4 0 auto auto 1 0 0;
+      5 0 auto auto 1 0 0;
+      6 0 auto auto 1 0 0;
+      7 0 auto auto 1 0 0;
+      8 0 auto auto 1 0 0;
+      9 0 auto auto 1 0 0;
+      10 0 auto auto 1 0 0;
+      11 0 auto auto 1 0 0;
+      12 0 auto auto 1 0 0;
+      13 0 auto auto 1 0 0;
+      14 0 auto auto 1 0 0;
+      15 0 auto auto 1 0 0;
+      16 0 auto auto 1 0 0;
+      17 0 auto auto 1 0 0;
+      18 0 auto auto 1 0 0;
+      19 0 auto auto 1 0 0;
+      20 0 auto auto 1 0 0;
+      21 0 auto auto 1 0 0;
+      22 0 auto auto 1 0 0;
+      23 0 auto auto 1 0 0;
+      24 0 auto auto 1 0 0;
+      25 0 auto auto 1 0 0;
+      26 0 auto auto 1 0 0;
+      27 0 auto auto 1 0 0;
+      28 0 auto auto 1 0 0;
+      29 0 auto auto 1 0 0;
+      30 0 auto auto 1 0 0;
+      31 0 auto auto 1 0 0;
+      32 0 auto auto 1 0 0;
+      33 0 auto auto 1 0 0;
+      34 0 auto auto 1 0 0;
+      35 0 auto auto 1 0 0;
+      36 0 auto auto 1 0 0;
+      37 0 auto auto 1 0 0;
+      38 0 auto auto 1 0 0;
+      39 0 auto auto 1 0 0;
+      40 0 auto auto 1 0 0;
+      41 0 auto auto 1 0 0;
+      42 0 auto auto 1 0 0;
+      43 0 auto auto 1 0 0;
+      44 0 auto auto 1 0 0;
+      45 0 auto auto 1 0 0;
+      46 0 auto auto 1 0 0;
+      47 0 auto auto 1 0 0;
+      48 0 auto auto 1 0 0;
+      49 0 auto auto 1 0 0;
+      50 0 auto auto 1 0 0;
+      51 0 auto auto 1 0 0;
+      52 0 auto auto 1 0 0;
+      53 0 auto auto 1 0 0;
+      54 0 auto auto 1 0 0;
+      55 0 auto auto 1 0 0;
+      56 0 auto auto 1 0 0;
+      57 0 auto auto 1 0 0;
+      58 0 auto auto 1 0 0;
+      59 0 auto auto 1 0 0;
+      60 0 auto auto 1 0 0;
+      61 0 auto auto 1 0 0;
+      62 0 auto auto 1 0 0;
+      63 0 auto auto 1 0 0;
+      64 0 auto auto 1 0 0;
+      65 0 auto auto 1 0 0;
+      66 0 auto auto 1 0 0;
+      67 0 auto auto 1 0 0;
+      68 0 auto auto 1 0 0;
+      69 0 auto auto 1 0 0;
+      70 0 auto auto 1 0 0;
+      71 0 auto auto 1 0 0;
+      72 0 auto auto 1 0 0;
+      73 0 auto auto 1 0 0;
+      74 0 auto auto 1 0 0;
+      75 0 auto auto 1 0 0;
+      76 0 auto auto 1 0 0;
+      77 0 auto auto 1 0 0;
+      78 0 auto auto 1 0 0;
+      79 0 auto auto 1 0 0;
+      80 0 auto auto 1 0 0;
+      81 0 auto auto 1 0 0;
+      82 0 auto auto 1 0 0;
+      83 0 auto auto 1 0 0;
+      84 0 auto auto 1 0 0;
+      85 0 auto auto 1 0 0;
+      86 0 auto auto 1 0 0;
+      87 0 auto auto 1 0 0;
+      88 0 auto auto 1 0 0;
+      89 0 auto auto 1 0 0;
+      90 0 auto auto 1 0 0;
+      91 0 auto auto 1 0 0;
+      92 0 auto auto 1 0 0;
+      93 0 auto auto 1 0 0;
+      94 0 auto auto 1 0 0;
+      95 0 auto auto 1 0 0;
+      96 0 auto auto 1 0 0;
+      97 0 auto auto 1 0 0;
+      98 0 auto auto 1 0 0;
+      99 0 auto auto 1 0 0;
+      100 0 auto auto 1 0 0;
+      101 0 auto auto 1 0 0;
+      102 0 auto auto 1 0 0;
+      103 0 auto auto 1 0 0;
+      104 0 auto auto 1 0 0;
+      105 0 auto auto 1 0 0;
+      106 0 auto auto 1 0 0;
+      107 0 auto auto 1 0 0;
+      108 0 auto auto 1 0 0;
+      109 0 auto auto 1 0 0;
+      110 0 auto auto 1 0 0;
+      111 0 auto auto 1 0 0;
+      112 0 auto auto 1 0 0;
+    }
+  }
+  anim rotate.rotateY rotateY 1;
+  animData {
+    input time;
+    output angular;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 0 auto auto 1 0 0;
+      2 0 auto auto 1 0 0;
+      3 0 auto auto 1 0 0;
+      4 0 auto auto 1 0 0;
+      5 0 auto auto 1 0 0;
+      6 0 auto auto 1 0 0;
+      7 0 auto auto 1 0 0;
+      8 0 auto auto 1 0 0;
+      9 0 auto auto 1 0 0;
+      10 0 auto auto 1 0 0;
+      11 0 auto auto 1 0 0;
+      12 0 auto auto 1 0 0;
+      13 0 auto auto 1 0 0;
+      14 0 auto auto 1 0 0;
+      15 0 auto auto 1 0 0;
+      16 0 auto auto 1 0 0;
+      17 0 auto auto 1 0 0;
+      18 0 auto auto 1 0 0;
+      19 0 auto auto 1 0 0;
+      20 0 auto auto 1 0 0;
+      21 0 auto auto 1 0 0;
+      22 0 auto auto 1 0 0;
+      23 0 auto auto 1 0 0;
+      24 0 auto auto 1 0 0;
+      25 0 auto auto 1 0 0;
+      26 0 auto auto 1 0 0;
+      27 0 auto auto 1 0 0;
+      28 0 auto auto 1 0 0;
+      29 0 auto auto 1 0 0;
+      30 0 auto auto 1 0 0;
+      31 0 auto auto 1 0 0;
+      32 0 auto auto 1 0 0;
+      33 0 auto auto 1 0 0;
+      34 0 auto auto 1 0 0;
+      35 0 auto auto 1 0 0;
+      36 0 auto auto 1 0 0;
+      37 0 auto auto 1 0 0;
+      38 0 auto auto 1 0 0;
+      39 0 auto auto 1 0 0;
+      40 0 auto auto 1 0 0;
+      41 0 auto auto 1 0 0;
+      42 0 auto auto 1 0 0;
+      43 0 auto auto 1 0 0;
+      44 0 auto auto 1 0 0;
+      45 0 auto auto 1 0 0;
+      46 0 auto auto 1 0 0;
+      47 0 auto auto 1 0 0;
+      48 0 auto auto 1 0 0;
+      49 0 auto auto 1 0 0;
+      50 0 auto auto 1 0 0;
+      51 0 auto auto 1 0 0;
+      52 0 auto auto 1 0 0;
+      53 0 auto auto 1 0 0;
+      54 0 auto auto 1 0 0;
+      55 0 auto auto 1 0 0;
+      56 0 auto auto 1 0 0;
+      57 0 auto auto 1 0 0;
+      58 0 auto auto 1 0 0;
+      59 0 auto auto 1 0 0;
+      60 0 auto auto 1 0 0;
+      61 0 auto auto 1 0 0;
+      62 0 auto auto 1 0 0;
+      63 0 auto auto 1 0 0;
+      64 0 auto auto 1 0 0;
+      65 0 auto auto 1 0 0;
+      66 0 auto auto 1 0 0;
+      67 0 auto auto 1 0 0;
+      68 0 auto auto 1 0 0;
+      69 0 auto auto 1 0 0;
+      70 0 auto auto 1 0 0;
+      71 0 auto auto 1 0 0;
+      72 0 auto auto 1 0 0;
+      73 0 auto auto 1 0 0;
+      74 0 auto auto 1 0 0;
+      75 0 auto auto 1 0 0;
+      76 0 auto auto 1 0 0;
+      77 0 auto auto 1 0 0;
+      78 0 auto auto 1 0 0;
+      79 0 auto auto 1 0 0;
+      80 0 auto auto 1 0 0;
+      81 0 auto auto 1 0 0;
+      82 0 auto auto 1 0 0;
+      83 0 auto auto 1 0 0;
+      84 0 auto auto 1 0 0;
+      85 0 auto auto 1 0 0;
+      86 0 auto auto 1 0 0;
+      87 0 auto auto 1 0 0;
+      88 0 auto auto 1 0 0;
+      89 0 auto auto 1 0 0;
+      90 0 auto auto 1 0 0;
+      91 0 auto auto 1 0 0;
+      92 0 auto auto 1 0 0;
+      93 0 auto auto 1 0 0;
+      94 0 auto auto 1 0 0;
+      95 0 auto auto 1 0 0;
+      96 0 auto auto 1 0 0;
+      97 0 auto auto 1 0 0;
+      98 0 auto auto 1 0 0;
+      99 0 auto auto 1 0 0;
+      100 0 auto auto 1 0 0;
+      101 0 auto auto 1 0 0;
+      102 0 auto auto 1 0 0;
+      103 0 auto auto 1 0 0;
+      104 0 auto auto 1 0 0;
+      105 0 auto auto 1 0 0;
+      106 0 auto auto 1 0 0;
+      107 0 auto auto 1 0 0;
+      108 0 auto auto 1 0 0;
+      109 0 auto auto 1 0 0;
+      110 0 auto auto 1 0 0;
+      111 0 auto auto 1 0 0;
+      112 0 auto auto 1 0 0;
+    }
+  }
+  anim rotate.rotateZ rotateZ 2;
+  animData {
+    input time;
+    output angular;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 0 auto auto 1 0 0;
+      2 0 auto auto 1 0 0;
+      3 0 auto auto 1 0 0;
+      4 0 auto auto 1 0 0;
+      5 0 auto auto 1 0 0;
+      6 0 auto auto 1 0 0;
+      7 0 auto auto 1 0 0;
+      8 0 auto auto 1 0 0;
+      9 0 auto auto 1 0 0;
+      10 0 auto auto 1 0 0;
+      11 0 auto auto 1 0 0;
+      12 0 auto auto 1 0 0;
+      13 0 auto auto 1 0 0;
+      14 0 auto auto 1 0 0;
+      15 0 auto auto 1 0 0;
+      16 0 auto auto 1 0 0;
+      17 0 auto auto 1 0 0;
+      18 0 auto auto 1 0 0;
+      19 0 auto auto 1 0 0;
+      20 0 auto auto 1 0 0;
+      21 0 auto auto 1 0 0;
+      22 0 auto auto 1 0 0;
+      23 0 auto auto 1 0 0;
+      24 0 auto auto 1 0 0;
+      25 0 auto auto 1 0 0;
+      26 0 auto auto 1 0 0;
+      27 0 auto auto 1 0 0;
+      28 0 auto auto 1 0 0;
+      29 0 auto auto 1 0 0;
+      30 0 auto auto 1 0 0;
+      31 0 auto auto 1 0 0;
+      32 0 auto auto 1 0 0;
+      33 0 auto auto 1 0 0;
+      34 0 auto auto 1 0 0;
+      35 0 auto auto 1 0 0;
+      36 0 auto auto 1 0 0;
+      37 0 auto auto 1 0 0;
+      38 0 auto auto 1 0 0;
+      39 0 auto auto 1 0 0;
+      40 0 auto auto 1 0 0;
+      41 0 auto auto 1 0 0;
+      42 0 auto auto 1 0 0;
+      43 0 auto auto 1 0 0;
+      44 0 auto auto 1 0 0;
+      45 0 auto auto 1 0 0;
+      46 0 auto auto 1 0 0;
+      47 0 auto auto 1 0 0;
+      48 0 auto auto 1 0 0;
+      49 0 auto auto 1 0 0;
+      50 0 auto auto 1 0 0;
+      51 0 auto auto 1 0 0;
+      52 0 auto auto 1 0 0;
+      53 0 auto auto 1 0 0;
+      54 0 auto auto 1 0 0;
+      55 0 auto auto 1 0 0;
+      56 0 auto auto 1 0 0;
+      57 0 auto auto 1 0 0;
+      58 0 auto auto 1 0 0;
+      59 0 auto auto 1 0 0;
+      60 0 auto auto 1 0 0;
+      61 0 auto auto 1 0 0;
+      62 0 auto auto 1 0 0;
+      63 0 auto auto 1 0 0;
+      64 0 auto auto 1 0 0;
+      65 0 auto auto 1 0 0;
+      66 0 auto auto 1 0 0;
+      67 0 auto auto 1 0 0;
+      68 0 auto auto 1 0 0;
+      69 0 auto auto 1 0 0;
+      70 0 auto auto 1 0 0;
+      71 0 auto auto 1 0 0;
+      72 0 auto auto 1 0 0;
+      73 0 auto auto 1 0 0;
+      74 0 auto auto 1 0 0;
+      75 0 auto auto 1 0 0;
+      76 0 auto auto 1 0 0;
+      77 0 auto auto 1 0 0;
+      78 0 auto auto 1 0 0;
+      79 0 auto auto 1 0 0;
+      80 0 auto auto 1 0 0;
+      81 0 auto auto 1 0 0;
+      82 0 auto auto 1 0 0;
+      83 0 auto auto 1 0 0;
+      84 0 auto auto 1 0 0;
+      85 0 auto auto 1 0 0;
+      86 0 auto auto 1 0 0;
+      87 0 auto auto 1 0 0;
+      88 0 auto auto 1 0 0;
+      89 0 auto auto 1 0 0;
+      90 0 auto auto 1 0 0;
+      91 0 auto auto 1 0 0;
+      92 0 auto auto 1 0 0;
+      93 0 auto auto 1 0 0;
+      94 0 auto auto 1 0 0;
+      95 0 auto auto 1 0 0;
+      96 0 auto auto 1 0 0;
+      97 0 auto auto 1 0 0;
+      98 0 auto auto 1 0 0;
+      99 0 auto auto 1 0 0;
+      100 0 auto auto 1 0 0;
+      101 0 auto auto 1 0 0;
+      102 0 auto auto 1 0 0;
+      103 0 auto auto 1 0 0;
+      104 0 auto auto 1 0 0;
+      105 0 auto auto 1 0 0;
+      106 0 auto auto 1 0 0;
+      107 0 auto auto 1 0 0;
+      108 0 auto auto 1 0 0;
+      109 0 auto auto 1 0 0;
+      110 0 auto auto 1 0 0;
+      111 0 auto auto 1 0 0;
+      112 0 auto auto 1 0 0;
+    }
+  }
+  anim visibility visibility 3;
+  animData {
+    input time;
+    output unitless;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 1 auto auto 1 0 0;
+      2 1 auto auto 1 0 0;
+      3 1 auto auto 1 0 0;
+      4 1 auto auto 1 0 0;
+      5 1 auto auto 1 0 0;
+      6 1 auto auto 1 0 0;
+      7 1 auto auto 1 0 0;
+      8 1 auto auto 1 0 0;
+      9 1 auto auto 1 0 0;
+      10 1 auto auto 1 0 0;
+      11 1 auto auto 1 0 0;
+      12 1 auto auto 1 0 0;
+      13 1 auto auto 1 0 0;
+      14 1 auto auto 1 0 0;
+      15 1 auto auto 1 0 0;
+      16 1 auto auto 1 0 0;
+      17 1 auto auto 1 0 0;
+      18 1 auto auto 1 0 0;
+      19 1 auto auto 1 0 0;
+      20 1 auto auto 1 0 0;
+      21 1 auto auto 1 0 0;
+      22 1 auto auto 1 0 0;
+      23 1 auto auto 1 0 0;
+      24 1 auto auto 1 0 0;
+      25 1 auto auto 1 0 0;
+      26 1 auto auto 1 0 0;
+      27 1 auto auto 1 0 0;
+      28 1 auto auto 1 0 0;
+      29 1 auto auto 1 0 0;
+      30 1 auto auto 1 0 0;
+      31 1 auto auto 1 0 0;
+      32 1 auto auto 1 0 0;
+      33 1 auto auto 1 0 0;
+      34 1 auto auto 1 0 0;
+      35 1 auto auto 1 0 0;
+      36 1 auto auto 1 0 0;
+      37 1 auto auto 1 0 0;
+      38 1 auto auto 1 0 0;
+      39 1 auto auto 1 0 0;
+      40 1 auto auto 1 0 0;
+      41 1 auto auto 1 0 0;
+      42 1 auto auto 1 0 0;
+      43 1 auto auto 1 0 0;
+      44 1 auto auto 1 0 0;
+      45 1 auto auto 1 0 0;
+      46 1 auto auto 1 0 0;
+      47 1 auto auto 1 0 0;
+      48 1 auto auto 1 0 0;
+      49 1 auto auto 1 0 0;
+      50 1 auto auto 1 0 0;
+      51 1 auto auto 1 0 0;
+      52 1 auto auto 1 0 0;
+      53 1 auto auto 1 0 0;
+      54 1 auto auto 1 0 0;
+      55 1 auto auto 1 0 0;
+      56 1 auto auto 1 0 0;
+      57 1 auto auto 1 0 0;
+      58 1 auto auto 1 0 0;
+      59 1 auto auto 1 0 0;
+      60 1 auto auto 1 0 0;
+      61 1 auto auto 1 0 0;
+      62 1 auto auto 1 0 0;
+      63 1 auto auto 1 0 0;
+      64 1 auto auto 1 0 0;
+      65 1 auto auto 1 0 0;
+      66 1 auto auto 1 0 0;
+      67 1 auto auto 1 0 0;
+      68 1 auto auto 1 0 0;
+      69 1 auto auto 1 0 0;
+      70 1 auto auto 1 0 0;
+      71 1 auto auto 1 0 0;
+      72 1 auto auto 1 0 0;
+      73 1 auto auto 1 0 0;
+      74 1 auto auto 1 0 0;
+      75 1 auto auto 1 0 0;
+      76 1 auto auto 1 0 0;
+      77 1 auto auto 1 0 0;
+      78 1 auto auto 1 0 0;
+      79 1 auto auto 1 0 0;
+      80 1 auto auto 1 0 0;
+      81 1 auto auto 1 0 0;
+      82 1 auto auto 1 0 0;
+      83 1 auto auto 1 0 0;
+      84 1 auto auto 1 0 0;
+      85 1 auto auto 1 0 0;
+      86 1 auto auto 1 0 0;
+      87 1 auto auto 1 0 0;
+      88 1 auto auto 1 0 0;
+      89 1 auto auto 1 0 0;
+      90 1 auto auto 1 0 0;
+      91 1 auto auto 1 0 0;
+      92 1 auto auto 1 0 0;
+      93 1 auto auto 1 0 0;
+      94 1 auto auto 1 0 0;
+      95 1 auto auto 1 0 0;
+      96 1 auto auto 1 0 0;
+      97 1 auto auto 1 0 0;
+      98 1 auto auto 1 0 0;
+      99 1 auto auto 1 0 0;
+      100 1 auto auto 1 0 0;
+      101 1 auto auto 1 0 0;
+      102 1 auto auto 1 0 0;
+      103 1 auto auto 1 0 0;
+      104 1 auto auto 1 0 0;
+      105 1 auto auto 1 0 0;
+      106 1 auto auto 1 0 0;
+      107 1 auto auto 1 0 0;
+      108 1 auto auto 1 0 0;
+      109 1 auto auto 1 0 0;
+      110 1 auto auto 1 0 0;
+      111 1 auto auto 1 0 0;
+      112 1 auto auto 1 0 0;
+    }
+  }
+  anim translate.translateX translateX 4;
+  animData {
+    input time;
+    output linear;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 0 auto auto 1 0 0;
+      2 0 auto auto 1 0 0;
+      3 0 auto auto 1 0 0;
+      4 0 auto auto 1 0 0;
+      5 0 auto auto 1 0 0;
+      6 0 auto auto 1 0 0;
+      7 0 auto auto 1 0 0;
+      8 0 auto auto 1 0 0;
+      9 0 auto auto 1 0 0;
+      10 0 auto auto 1 0 0;
+      11 0 auto auto 1 0 0;
+      12 0 auto auto 1 0 0;
+      13 0 auto auto 1 0 0;
+      14 0 auto auto 1 0 0;
+      15 0 auto auto 1 0 0;
+      16 0 auto auto 1 0 0;
+      17 0 auto auto 1 0 0;
+      18 0 auto auto 1 0 0;
+      19 0 auto auto 1 0 0;
+      20 0 auto auto 1 0 0;
+      21 0 auto auto 1 0 0;
+      22 0 auto auto 1 0 0;
+      23 0 auto auto 1 0 0;
+      24 0 auto auto 1 0 0;
+      25 0 auto auto 1 0 0;
+      26 0 auto auto 1 0 0;
+      27 0 auto auto 1 0 0;
+      28 0 auto auto 1 0 0;
+      29 0 auto auto 1 0 0;
+      30 0 auto auto 1 0 0;
+      31 0 auto auto 1 0 0;
+      32 0 auto auto 1 0 0;
+      33 0 auto auto 1 0 0;
+      34 0 auto auto 1 0 0;
+      35 0 auto auto 1 0 0;
+      36 0 auto auto 1 0 0;
+      37 0 auto auto 1 0 0;
+      38 0 auto auto 1 0 0;
+      39 0 auto auto 1 0 0;
+      40 0 auto auto 1 0 0;
+      41 0 auto auto 1 0 0;
+      42 0 auto auto 1 0 0;
+      43 0 auto auto 1 0 0;
+      44 0 auto auto 1 0 0;
+      45 0 auto auto 1 0 0;
+      46 0 auto auto 1 0 0;
+      47 0 auto auto 1 0 0;
+      48 0 auto auto 1 0 0;
+      49 0 auto auto 1 0 0;
+      50 0 auto auto 1 0 0;
+      51 0 auto auto 1 0 0;
+      52 0 auto auto 1 0 0;
+      53 0 auto auto 1 0 0;
+      54 0 auto auto 1 0 0;
+      55 0 auto auto 1 0 0;
+      56 0 auto auto 1 0 0;
+      57 0 auto auto 1 0 0;
+      58 0 auto auto 1 0 0;
+      59 0 auto auto 1 0 0;
+      60 0 auto auto 1 0 0;
+      61 0 auto auto 1 0 0;
+      62 0 auto auto 1 0 0;
+      63 0 auto auto 1 0 0;
+      64 0 auto auto 1 0 0;
+      65 0 auto auto 1 0 0;
+      66 0 auto auto 1 0 0;
+      67 0 auto auto 1 0 0;
+      68 0 auto auto 1 0 0;
+      69 0 auto auto 1 0 0;
+      70 0 auto auto 1 0 0;
+      71 0 auto auto 1 0 0;
+      72 0 auto auto 1 0 0;
+      73 0 auto auto 1 0 0;
+      74 0 auto auto 1 0 0;
+      75 0 auto auto 1 0 0;
+      76 0 auto auto 1 0 0;
+      77 0 auto auto 1 0 0;
+      78 0 auto auto 1 0 0;
+      79 0 auto auto 1 0 0;
+      80 0 auto auto 1 0 0;
+      81 0 auto auto 1 0 0;
+      82 0 auto auto 1 0 0;
+      83 0 auto auto 1 0 0;
+      84 0 auto auto 1 0 0;
+      85 0 auto auto 1 0 0;
+      86 0 auto auto 1 0 0;
+      87 0 auto auto 1 0 0;
+      88 0 auto auto 1 0 0;
+      89 0 auto auto 1 0 0;
+      90 0 auto auto 1 0 0;
+      91 0 auto auto 1 0 0;
+      92 0 auto auto 1 0 0;
+      93 0 auto auto 1 0 0;
+      94 0 auto auto 1 0 0;
+      95 0 auto auto 1 0 0;
+      96 0 auto auto 1 0 0;
+      97 0 auto auto 1 0 0;
+      98 0 auto auto 1 0 0;
+      99 0 auto auto 1 0 0;
+      100 0 auto auto 1 0 0;
+      101 0 auto auto 1 0 0;
+      102 0 auto auto 1 0 0;
+      103 0 auto auto 1 0 0;
+      104 0 auto auto 1 0 0;
+      105 0 auto auto 1 0 0;
+      106 0 auto auto 1 0 0;
+      107 0 auto auto 1 0 0;
+      108 0 auto auto 1 0 0;
+      109 0 auto auto 1 0 0;
+      110 0 auto auto 1 0 0;
+      111 0 auto auto 1 0 0;
+      112 0 auto auto 1 0 0;
+    }
+  }
+  anim translate.translateY translateY 5;
+  animData {
+    input time;
+    output linear;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 0 auto auto 1 0 0;
+      2 0 auto auto 1 0 0;
+      3 0 auto auto 1 0 0;
+      4 0 auto auto 1 0 0;
+      5 0 auto auto 1 0 0;
+      6 0 auto auto 1 0 0;
+      7 0 auto auto 1 0 0;
+      8 0 auto auto 1 0 0;
+      9 0 auto auto 1 0 0;
+      10 0 auto auto 1 0 0;
+      11 0 auto auto 1 0 0;
+      12 0 auto auto 1 0 0;
+      13 0 auto auto 1 0 0;
+      14 0 auto auto 1 0 0;
+      15 0 auto auto 1 0 0;
+      16 0 auto auto 1 0 0;
+      17 0 auto auto 1 0 0;
+      18 0 auto auto 1 0 0;
+      19 0 auto auto 1 0 0;
+      20 0 auto auto 1 0 0;
+      21 0 auto auto 1 0 0;
+      22 0 auto auto 1 0 0;
+      23 0 auto auto 1 0 0;
+      24 0 auto auto 1 0 0;
+      25 0 auto auto 1 0 0;
+      26 0 auto auto 1 0 0;
+      27 0 auto auto 1 0 0;
+      28 0 auto auto 1 0 0;
+      29 0 auto auto 1 0 0;
+      30 0 auto auto 1 0 0;
+      31 0 auto auto 1 0 0;
+      32 0 auto auto 1 0 0;
+      33 0 auto auto 1 0 0;
+      34 0 auto auto 1 0 0;
+      35 0 auto auto 1 0 0;
+      36 0 auto auto 1 0 0;
+      37 0 auto auto 1 0 0;
+      38 0 auto auto 1 0 0;
+      39 0 auto auto 1 0 0;
+      40 0 auto auto 1 0 0;
+      41 0 auto auto 1 0 0;
+      42 0 auto auto 1 0 0;
+      43 0 auto auto 1 0 0;
+      44 0 auto auto 1 0 0;
+      45 0 auto auto 1 0 0;
+      46 0 auto auto 1 0 0;
+      47 0 auto auto 1 0 0;
+      48 0 auto auto 1 0 0;
+      49 0 auto auto 1 0 0;
+      50 0 auto auto 1 0 0;
+      51 0 auto auto 1 0 0;
+      52 0 auto auto 1 0 0;
+      53 0 auto auto 1 0 0;
+      54 0 auto auto 1 0 0;
+      55 0 auto auto 1 0 0;
+      56 0 auto auto 1 0 0;
+      57 0 auto auto 1 0 0;
+      58 0 auto auto 1 0 0;
+      59 0 auto auto 1 0 0;
+      60 0 auto auto 1 0 0;
+      61 0 auto auto 1 0 0;
+      62 0 auto auto 1 0 0;
+      63 0 auto auto 1 0 0;
+      64 0 auto auto 1 0 0;
+      65 0 auto auto 1 0 0;
+      66 0 auto auto 1 0 0;
+      67 0 auto auto 1 0 0;
+      68 0 auto auto 1 0 0;
+      69 0 auto auto 1 0 0;
+      70 0 auto auto 1 0 0;
+      71 0 auto auto 1 0 0;
+      72 0 auto auto 1 0 0;
+      73 0 auto auto 1 0 0;
+      74 0 auto auto 1 0 0;
+      75 0 auto auto 1 0 0;
+      76 0 auto auto 1 0 0;
+      77 0 auto auto 1 0 0;
+      78 0 auto auto 1 0 0;
+      79 0 auto auto 1 0 0;
+      80 0 auto auto 1 0 0;
+      81 0 auto auto 1 0 0;
+      82 0 auto auto 1 0 0;
+      83 0 auto auto 1 0 0;
+      84 0 auto auto 1 0 0;
+      85 0 auto auto 1 0 0;
+      86 0 auto auto 1 0 0;
+      87 0 auto auto 1 0 0;
+      88 0 auto auto 1 0 0;
+      89 0 auto auto 1 0 0;
+      90 0 auto auto 1 0 0;
+      91 0 auto auto 1 0 0;
+      92 0 auto auto 1 0 0;
+      93 0 auto auto 1 0 0;
+      94 0 auto auto 1 0 0;
+      95 0 auto auto 1 0 0;
+      96 0 auto auto 1 0 0;
+      97 0 auto auto 1 0 0;
+      98 0 auto auto 1 0 0;
+      99 0 auto auto 1 0 0;
+      100 0 auto auto 1 0 0;
+      101 0 auto auto 1 0 0;
+      102 0 auto auto 1 0 0;
+      103 0 auto auto 1 0 0;
+      104 0 auto auto 1 0 0;
+      105 0 auto auto 1 0 0;
+      106 0 auto auto 1 0 0;
+      107 0 auto auto 1 0 0;
+      108 0 auto auto 1 0 0;
+      109 0 auto auto 1 0 0;
+      110 0 auto auto 1 0 0;
+      111 0 auto auto 1 0 0;
+      112 0 auto auto 1 0 0;
+    }
+  }
+  anim translate.translateZ translateZ 6;
+  animData {
+    input time;
+    output linear;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 0 auto auto 1 0 0;
+      2 0 auto auto 1 0 0;
+      3 0 auto auto 1 0 0;
+      4 0 auto auto 1 0 0;
+      5 0 auto auto 1 0 0;
+      6 0 auto auto 1 0 0;
+      7 0 auto auto 1 0 0;
+      8 0 auto auto 1 0 0;
+      9 0 auto auto 1 0 0;
+      10 0 auto auto 1 0 0;
+      11 0 auto auto 1 0 0;
+      12 0 auto auto 1 0 0;
+      13 0 auto auto 1 0 0;
+      14 0 auto auto 1 0 0;
+      15 0 auto auto 1 0 0;
+      16 0 auto auto 1 0 0;
+      17 0 auto auto 1 0 0;
+      18 0 auto auto 1 0 0;
+      19 0 auto auto 1 0 0;
+      20 0 auto auto 1 0 0;
+      21 0 auto auto 1 0 0;
+      22 0 auto auto 1 0 0;
+      23 0 auto auto 1 0 0;
+      24 0 auto auto 1 0 0;
+      25 0 auto auto 1 0 0;
+      26 0 auto auto 1 0 0;
+      27 0 auto auto 1 0 0;
+      28 0 auto auto 1 0 0;
+      29 0 auto auto 1 0 0;
+      30 0 auto auto 1 0 0;
+      31 0 auto auto 1 0 0;
+      32 0 auto auto 1 0 0;
+      33 0 auto auto 1 0 0;
+      34 0 auto auto 1 0 0;
+      35 0 auto auto 1 0 0;
+      36 0 auto auto 1 0 0;
+      37 0 auto auto 1 0 0;
+      38 0 auto auto 1 0 0;
+      39 0 auto auto 1 0 0;
+      40 0 auto auto 1 0 0;
+      41 0 auto auto 1 0 0;
+      42 0 auto auto 1 0 0;
+      43 0 auto auto 1 0 0;
+      44 0 auto auto 1 0 0;
+      45 0 auto auto 1 0 0;
+      46 0 auto auto 1 0 0;
+      47 0 auto auto 1 0 0;
+      48 0 auto auto 1 0 0;
+      49 0 auto auto 1 0 0;
+      50 0 auto auto 1 0 0;
+      51 0 auto auto 1 0 0;
+      52 0 auto auto 1 0 0;
+      53 0 auto auto 1 0 0;
+      54 0 auto auto 1 0 0;
+      55 0 auto auto 1 0 0;
+      56 0 auto auto 1 0 0;
+      57 0 auto auto 1 0 0;
+      58 0 auto auto 1 0 0;
+      59 0 auto auto 1 0 0;
+      60 0 auto auto 1 0 0;
+      61 0 auto auto 1 0 0;
+      62 0 auto auto 1 0 0;
+      63 0 auto auto 1 0 0;
+      64 0 auto auto 1 0 0;
+      65 0 auto auto 1 0 0;
+      66 0 auto auto 1 0 0;
+      67 0 auto auto 1 0 0;
+      68 0 auto auto 1 0 0;
+      69 0 auto auto 1 0 0;
+      70 0 auto auto 1 0 0;
+      71 0 auto auto 1 0 0;
+      72 0 auto auto 1 0 0;
+      73 0 auto auto 1 0 0;
+      74 0 auto auto 1 0 0;
+      75 0 auto auto 1 0 0;
+      76 0 auto auto 1 0 0;
+      77 0 auto auto 1 0 0;
+      78 0 auto auto 1 0 0;
+      79 0 auto auto 1 0 0;
+      80 0 auto auto 1 0 0;
+      81 0 auto auto 1 0 0;
+      82 0 auto auto 1 0 0;
+      83 0 auto auto 1 0 0;
+      84 0 auto auto 1 0 0;
+      85 0 auto auto 1 0 0;
+      86 0 auto auto 1 0 0;
+      87 0 auto auto 1 0 0;
+      88 0 auto auto 1 0 0;
+      89 0 auto auto 1 0 0;
+      90 0 auto auto 1 0 0;
+      91 0 auto auto 1 0 0;
+      92 0 auto auto 1 0 0;
+      93 0 auto auto 1 0 0;
+      94 0 auto auto 1 0 0;
+      95 0 auto auto 1 0 0;
+      96 0 auto auto 1 0 0;
+      97 0 auto auto 1 0 0;
+      98 0 auto auto 1 0 0;
+      99 0 auto auto 1 0 0;
+      100 0 auto auto 1 0 0;
+      101 0 auto auto 1 0 0;
+      102 0 auto auto 1 0 0;
+      103 0 auto auto 1 0 0;
+      104 0 auto auto 1 0 0;
+      105 0 auto auto 1 0 0;
+      106 0 auto auto 1 0 0;
+      107 0 auto auto 1 0 0;
+      108 0 auto auto 1 0 0;
+      109 0 auto auto 1 0 0;
+      110 0 auto auto 1 0 0;
+      111 0 auto auto 1 0 0;
+      112 0 auto auto 1 0 0;
+    }
+  }
+  anim scale.scaleX scaleX 7;
+  animData {
+    input time;
+    output unitless;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 1 auto auto 1 0 0;
+      2 1 auto auto 1 0 0;
+      3 1 auto auto 1 0 0;
+      4 1 auto auto 1 0 0;
+      5 1 auto auto 1 0 0;
+      6 1 auto auto 1 0 0;
+      7 1 auto auto 1 0 0;
+      8 1 auto auto 1 0 0;
+      9 1 auto auto 1 0 0;
+      10 1 auto auto 1 0 0;
+      11 1 auto auto 1 0 0;
+      12 1 auto auto 1 0 0;
+      13 1 auto auto 1 0 0;
+      14 1 auto auto 1 0 0;
+      15 1 auto auto 1 0 0;
+      16 1 auto auto 1 0 0;
+      17 1 auto auto 1 0 0;
+      18 1 auto auto 1 0 0;
+      19 1 auto auto 1 0 0;
+      20 1 auto auto 1 0 0;
+      21 1 auto auto 1 0 0;
+      22 1 auto auto 1 0 0;
+      23 1 auto auto 1 0 0;
+      24 1 auto auto 1 0 0;
+      25 1 auto auto 1 0 0;
+      26 1 auto auto 1 0 0;
+      27 1 auto auto 1 0 0;
+      28 1 auto auto 1 0 0;
+      29 1 auto auto 1 0 0;
+      30 1 auto auto 1 0 0;
+      31 1 auto auto 1 0 0;
+      32 1 auto auto 1 0 0;
+      33 1 auto auto 1 0 0;
+      34 1 auto auto 1 0 0;
+      35 1 auto auto 1 0 0;
+      36 1 auto auto 1 0 0;
+      37 1 auto auto 1 0 0;
+      38 1 auto auto 1 0 0;
+      39 1 auto auto 1 0 0;
+      40 1 auto auto 1 0 0;
+      41 1 auto auto 1 0 0;
+      42 1 auto auto 1 0 0;
+      43 1 auto auto 1 0 0;
+      44 1 auto auto 1 0 0;
+      45 1 auto auto 1 0 0;
+      46 1 auto auto 1 0 0;
+      47 1 auto auto 1 0 0;
+      48 1 auto auto 1 0 0;
+      49 1 auto auto 1 0 0;
+      50 1 auto auto 1 0 0;
+      51 1 auto auto 1 0 0;
+      52 1 auto auto 1 0 0;
+      53 1 auto auto 1 0 0;
+      54 1 auto auto 1 0 0;
+      55 1 auto auto 1 0 0;
+      56 1 auto auto 1 0 0;
+      57 1 auto auto 1 0 0;
+      58 1 auto auto 1 0 0;
+      59 1 auto auto 1 0 0;
+      60 1 auto auto 1 0 0;
+      61 1 auto auto 1 0 0;
+      62 1 auto auto 1 0 0;
+      63 1 auto auto 1 0 0;
+      64 1 auto auto 1 0 0;
+      65 1 auto auto 1 0 0;
+      66 1 auto auto 1 0 0;
+      67 1 auto auto 1 0 0;
+      68 1 auto auto 1 0 0;
+      69 1 auto auto 1 0 0;
+      70 1 auto auto 1 0 0;
+      71 1 auto auto 1 0 0;
+      72 1 auto auto 1 0 0;
+      73 1 auto auto 1 0 0;
+      74 1 auto auto 1 0 0;
+      75 1 auto auto 1 0 0;
+      76 1 auto auto 1 0 0;
+      77 1 auto auto 1 0 0;
+      78 1 auto auto 1 0 0;
+      79 1 auto auto 1 0 0;
+      80 1 auto auto 1 0 0;
+      81 1 auto auto 1 0 0;
+      82 1 auto auto 1 0 0;
+      83 1 auto auto 1 0 0;
+      84 1 auto auto 1 0 0;
+      85 1 auto auto 1 0 0;
+      86 1 auto auto 1 0 0;
+      87 1 auto auto 1 0 0;
+      88 1 auto auto 1 0 0;
+      89 1 auto auto 1 0 0;
+      90 1 auto auto 1 0 0;
+      91 1 auto auto 1 0 0;
+      92 1 auto auto 1 0 0;
+      93 1 auto auto 1 0 0;
+      94 1 auto auto 1 0 0;
+      95 1 auto auto 1 0 0;
+      96 1 auto auto 1 0 0;
+      97 1 auto auto 1 0 0;
+      98 1 auto auto 1 0 0;
+      99 1 auto auto 1 0 0;
+      100 1 auto auto 1 0 0;
+      101 1 auto auto 1 0 0;
+      102 1 auto auto 1 0 0;
+      103 1 auto auto 1 0 0;
+      104 1 auto auto 1 0 0;
+      105 1 auto auto 1 0 0;
+      106 1 auto auto 1 0 0;
+      107 1 auto auto 1 0 0;
+      108 1 auto auto 1 0 0;
+      109 1 auto auto 1 0 0;
+      110 1 auto auto 1 0 0;
+      111 1 auto auto 1 0 0;
+      112 1 auto auto 1 0 0;
+    }
+  }
+  anim scale.scaleY scaleY 8;
+  animData {
+    input time;
+    output unitless;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 1 auto auto 1 0 0;
+      2 1 auto auto 1 0 0;
+      3 1 auto auto 1 0 0;
+      4 1 auto auto 1 0 0;
+      5 1 auto auto 1 0 0;
+      6 1 auto auto 1 0 0;
+      7 1 auto auto 1 0 0;
+      8 1 auto auto 1 0 0;
+      9 1 auto auto 1 0 0;
+      10 1 auto auto 1 0 0;
+      11 1 auto auto 1 0 0;
+      12 1 auto auto 1 0 0;
+      13 1 auto auto 1 0 0;
+      14 1 auto auto 1 0 0;
+      15 1 auto auto 1 0 0;
+      16 1 auto auto 1 0 0;
+      17 1 auto auto 1 0 0;
+      18 1 auto auto 1 0 0;
+      19 1 auto auto 1 0 0;
+      20 1 auto auto 1 0 0;
+      21 1 auto auto 1 0 0;
+      22 1 auto auto 1 0 0;
+      23 1 auto auto 1 0 0;
+      24 1 auto auto 1 0 0;
+      25 1 auto auto 1 0 0;
+      26 1 auto auto 1 0 0;
+      27 1 auto auto 1 0 0;
+      28 1 auto auto 1 0 0;
+      29 1 auto auto 1 0 0;
+      30 1 auto auto 1 0 0;
+      31 1 auto auto 1 0 0;
+      32 1 auto auto 1 0 0;
+      33 1 auto auto 1 0 0;
+      34 1 auto auto 1 0 0;
+      35 1 auto auto 1 0 0;
+      36 1 auto auto 1 0 0;
+      37 1 auto auto 1 0 0;
+      38 1 auto auto 1 0 0;
+      39 1 auto auto 1 0 0;
+      40 1 auto auto 1 0 0;
+      41 1 auto auto 1 0 0;
+      42 1 auto auto 1 0 0;
+      43 1 auto auto 1 0 0;
+      44 1 auto auto 1 0 0;
+      45 1 auto auto 1 0 0;
+      46 1 auto auto 1 0 0;
+      47 1 auto auto 1 0 0;
+      48 1 auto auto 1 0 0;
+      49 1 auto auto 1 0 0;
+      50 1 auto auto 1 0 0;
+      51 1 auto auto 1 0 0;
+      52 1 auto auto 1 0 0;
+      53 1 auto auto 1 0 0;
+      54 1 auto auto 1 0 0;
+      55 1 auto auto 1 0 0;
+      56 1 auto auto 1 0 0;
+      57 1 auto auto 1 0 0;
+      58 1 auto auto 1 0 0;
+      59 1 auto auto 1 0 0;
+      60 1 auto auto 1 0 0;
+      61 1 auto auto 1 0 0;
+      62 1 auto auto 1 0 0;
+      63 1 auto auto 1 0 0;
+      64 1 auto auto 1 0 0;
+      65 1 auto auto 1 0 0;
+      66 1 auto auto 1 0 0;
+      67 1 auto auto 1 0 0;
+      68 1 auto auto 1 0 0;
+      69 1 auto auto 1 0 0;
+      70 1 auto auto 1 0 0;
+      71 1 auto auto 1 0 0;
+      72 1 auto auto 1 0 0;
+      73 1 auto auto 1 0 0;
+      74 1 auto auto 1 0 0;
+      75 1 auto auto 1 0 0;
+      76 1 auto auto 1 0 0;
+      77 1 auto auto 1 0 0;
+      78 1 auto auto 1 0 0;
+      79 1 auto auto 1 0 0;
+      80 1 auto auto 1 0 0;
+      81 1 auto auto 1 0 0;
+      82 1 auto auto 1 0 0;
+      83 1 auto auto 1 0 0;
+      84 1 auto auto 1 0 0;
+      85 1 auto auto 1 0 0;
+      86 1 auto auto 1 0 0;
+      87 1 auto auto 1 0 0;
+      88 1 auto auto 1 0 0;
+      89 1 auto auto 1 0 0;
+      90 1 auto auto 1 0 0;
+      91 1 auto auto 1 0 0;
+      92 1 auto auto 1 0 0;
+      93 1 auto auto 1 0 0;
+      94 1 auto auto 1 0 0;
+      95 1 auto auto 1 0 0;
+      96 1 auto auto 1 0 0;
+      97 1 auto auto 1 0 0;
+      98 1 auto auto 1 0 0;
+      99 1 auto auto 1 0 0;
+      100 1 auto auto 1 0 0;
+      101 1 auto auto 1 0 0;
+      102 1 auto auto 1 0 0;
+      103 1 auto auto 1 0 0;
+      104 1 auto auto 1 0 0;
+      105 1 auto auto 1 0 0;
+      106 1 auto auto 1 0 0;
+      107 1 auto auto 1 0 0;
+      108 1 auto auto 1 0 0;
+      109 1 auto auto 1 0 0;
+      110 1 auto auto 1 0 0;
+      111 1 auto auto 1 0 0;
+      112 1 auto auto 1 0 0;
+    }
+  }
+  anim scale.scaleZ scaleZ 9;
+  animData {
+    input time;
+    output unitless;
+    weighted 1;
+    preInfinity constant;
+    postInfinity constant;
+    keys {
+      1 1 auto auto 1 0 0;
+      2 1 auto auto 1 0 0;
+      3 1 auto auto 1 0 0;
+      4 1 auto auto 1 0 0;
+      5 1 auto auto 1 0 0;
+      6 1 auto auto 1 0 0;
+      7 1 auto auto 1 0 0;
+      8 1 auto auto 1 0 0;
+      9 1 auto auto 1 0 0;
+      10 1 auto auto 1 0 0;
+      11 1 auto auto 1 0 0;
+      12 1 auto auto 1 0 0;
+      13 1 auto auto 1 0 0;
+      14 1 auto auto 1 0 0;
+      15 1 auto auto 1 0 0;
+      16 1 auto auto 1 0 0;
+      17 1 auto auto 1 0 0;
+      18 1 auto auto 1 0 0;
+      19 1 auto auto 1 0 0;
+      20 1 auto auto 1 0 0;
+      21 1 auto auto 1 0 0;
+      22 1 auto auto 1 0 0;
+      23 1 auto auto 1 0 0;
+      24 1 auto auto 1 0 0;
+      25 1 auto auto 1 0 0;
+      26 1 auto auto 1 0 0;
+      27 1 auto auto 1 0 0;
+      28 1 auto auto 1 0 0;
+      29 1 auto auto 1 0 0;
+      30 1 auto auto 1 0 0;
+      31 1 auto auto 1 0 0;
+      32 1 auto auto 1 0 0;
+      33 1 auto auto 1 0 0;
+      34 1 auto auto 1 0 0;
+      35 1 auto auto 1 0 0;
+      36 1 auto auto 1 0 0;
+      37 1 auto auto 1 0 0;
+      38 1 auto auto 1 0 0;
+      39 1 auto auto 1 0 0;
+      40 1 auto auto 1 0 0;
+      41 1 auto auto 1 0 0;
+      42 1 auto auto 1 0 0;
+      43 1 auto auto 1 0 0;
+      44 1 auto auto 1 0 0;
+      45 1 auto auto 1 0 0;
+      46 1 auto auto 1 0 0;
+      47 1 auto auto 1 0 0;
+      48 1 auto auto 1 0 0;
+      49 1 auto auto 1 0 0;
+      50 1 auto auto 1 0 0;
+      51 1 auto auto 1 0 0;
+      52 1 auto auto 1 0 0;
+      53 1 auto auto 1 0 0;
+      54 1 auto auto 1 0 0;
+      55 1 auto auto 1 0 0;
+      56 1 auto auto 1 0 0;
+      57 1 auto auto 1 0 0;
+      58 1 auto auto 1 0 0;
+      59 1 auto auto 1 0 0;
+      60 1 auto auto 1 0 0;
+      61 1 auto auto 1 0 0;
+      62 1 auto auto 1 0 0;
+      63 1 auto auto 1 0 0;
+      64 1 auto auto 1 0 0;
+      65 1 auto auto 1 0 0;
+      66 1 auto auto 1 0 0;
+      67 1 auto auto 1 0 0;
+      68 1 auto auto 1 0 0;
+      69 1 auto auto 1 0 0;
+      70 1 auto auto 1 0 0;
+      71 1 auto auto 1 0 0;
+      72 1 auto auto 1 0 0;
+      73 1 auto auto 1 0 0;
+      74 1 auto auto 1 0 0;
+      75 1 auto auto 1 0 0;
+      76 1 auto auto 1 0 0;
+      77 1 auto auto 1 0 0;
+      78 1 auto auto 1 0 0;
+      79 1 auto auto 1 0 0;
+      80 1 auto auto 1 0 0;
+      81 1 auto auto 1 0 0;
+      82 1 auto auto 1 0 0;
+      83 1 auto auto 1 0 0;
+      84 1 auto auto 1 0 0;
+      85 1 auto auto 1 0 0;
+      86 1 auto auto 1 0 0;
+      87 1 auto auto 1 0 0;
+      88 1 auto auto 1 0 0;
+      89 1 auto auto 1 0 0;
+      90 1 auto auto 1 0 0;
+      91 1 auto auto 1 0 0;
+      92 1 auto auto 1 0 0;
+      93 1 auto auto 1 0 0;
+      94 1 auto auto 1 0 0;
+      95 1 auto auto 1 0 0;
+      96 1 auto auto 1 0 0;
+      97 1 auto auto 1 0 0;
+      98 1 auto auto 1 0 0;
+      99 1 auto auto 1 0 0;
+      100 1 auto auto 1 0 0;
+      101 1 auto auto 1 0 0;
+      102 1 auto auto 1 0 0;
+      103 1 auto auto 1 0 0;
+      104 1 auto auto 1 0 0;
+      105 1 auto auto 1 0 0;
+      106 1 auto auto 1 0 0;
+      107 1 auto auto 1 0 0;
+      108 1 auto auto 1 0 0;
+      109 1 auto auto 1 0 0;
+      110 1 auto auto 1 0 0;
+      111 1 auto auto 1 0 0;
+      112 1 auto auto 1 0 0;
+    }
+  }
+}
+dagNode {
+  lowerbody2|pCube90 2 3;
+  cached rotate.rx rotateX 0;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.ty translateY 7;
+  { -1.2591315 -1.6723562 -2.0855808 -1.7705011 -1.4554216 -1.858834 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.6724991 -2.086 -1.7705 -1.455 -1.859 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.2591315 -1.6723562 -2.0855808 -1.7705011 -1.4554216 -1.858834 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.6724991 -2.086 -1.7705 -1.455 -1.859 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.259 -1.2591315 -1.6723562  }
+  cached translate.tz translateZ 8;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  arm2_pasted__pCylinder5 3 2;
+  cached rotate.rx rotateX 0;
+  { 35.301911 34.045594 30.644381 25.649877 19.613691 13.087424 6.6226886 0.77108281 -3.9157783 -6.8862936 -8.7263396 -10.395073 -11.900818 -13.251892 -14.456619 -15.523319 -16.46031 -17.275916 -17.978457 -18.576253 -19.077625 -19.490895 -19.824382 -20.086408 -20.285294 -20.42936 -20.526926 -20.586315 -20.615846 -20.623841 -20.268809 -19.283925 -17.789521 -15.905918 -13.753434 -11.452408 -9.123157 -6.886 -4.5912068 -2.0401266 0.72027531 3.6430099 6.6811115 9.7876159 12.915532 16.017895 19.04774 21.958077 24.701949 27.23236 29.502365 31.464975 33.07321 34.280113 35.038701 35.301911 34.045594 30.644381 25.649877 19.613691 13.087424 6.6226886 0.77108281 -3.9157783 -6.8862936 -8.7263396 -10.395073 -11.900818 -13.251892 -14.456619 -15.523319 -16.46031 -17.275916 -17.978457 -18.576253 -19.077625 -19.490895 -19.824382 -20.086408 -20.285294 -20.42936 -20.526926 -20.586315 -20.615846 -20.623841 -20.268809 -19.283925 -17.789521 -15.905918 -13.753434 -11.452408 -9.123157 -6.886 -4.5912068 -2.0401266 0.72027531 3.6430099 6.6811115 9.7876159 12.915532 16.017895 19.04774 21.958077 24.701949 27.23236 29.502365 31.464975 33.07321 34.280113 35.038701 35.301911 34.045594  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118 1.3340118  }
+  cached translate.ty translateY 7;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.tz translateZ 8;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  arm2_pasted__pSphere6 4 2;
+  cached rotate.rx rotateX 0;
+  { -49.975149 -50.051259 -50.272423 -50.627899 -51.10694 -51.698802 -52.39274 -53.17801 -54.043866 -54.979563 -55.974357 -57.017503 -58.098256 -59.20587 -60.329603 -61.458708 -62.582439 -63.690055 -64.770808 -65.813953 -66.808748 -67.744445 -68.6103 -69.39557 -70.089508 -70.681371 -71.160412 -71.515887 -71.737052 -71.813162 -71.718732 -71.445381 -71.008022 -70.421563 -69.700912 -68.860984 -67.916685 -66.882924 -65.774616 -64.606668 -63.393986 -62.151489 -60.894081 -59.636669 -58.394172 -57.181494 -56.013542 -54.905234 -53.871473 -52.927178 -52.087247 -51.366597 -50.780139 -50.342779 -50.069429 -49.975149 -50.051259 -50.272423 -50.627899 -51.10694 -51.698802 -52.39274 -53.17801 -54.043866 -54.979563 -55.974357 -57.017503 -58.098256 -59.20587 -60.329603 -61.458708 -62.582439 -63.690055 -64.770808 -65.813953 -66.808748 -67.744445 -68.6103 -69.39557 -70.089508 -70.681371 -71.160412 -71.515887 -71.737052 -71.813162 -71.718732 -71.445381 -71.008022 -70.421563 -69.700912 -68.860984 -67.916685 -66.882924 -65.774616 -64.606668 -63.393986 -62.151489 -60.894081 -59.636669 -58.394172 -57.181494 -56.013542 -54.905234 -53.871473 -52.927178 -52.087247 -51.366597 -50.780139 -50.342779 -50.069429 -49.975149 -50.051259  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.ty translateY 7;
+  { -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736 -1.057736  }
+  cached translate.tz translateZ 8;
+  { -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874 -0.47332874  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  polySurface1 6 1;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { 0 }
+  static translate.ty translateY 7;
+  { 0 }
+  static translate.tz translateZ 8;
+  { 0 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  polySurface2 6 1;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { 0 }
+  static translate.ty translateY 7;
+  { 0 }
+  static translate.tz translateZ 8;
+  { 0 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  polySurface3 6 1;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { 0 }
+  static translate.ty translateY 7;
+  { 0 }
+  static translate.tz translateZ 8;
+  { 0 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  arm3_pasted__pCylinder5 3 2;
+  cached rotate.rx rotateX 0;
+  { -20.624 -20.343343 -19.556897 -18.347951 -16.799796 -14.99572 -13.019014 -10.952964 -8.8808638 -6.886 -4.8396803 -2.5805935 -0.14309096 2.4384671 5.1297332 7.896349 10.703956 13.518207 16.304743 19.029206 21.657249 24.154512 26.486639 28.61928 30.518076 32.148678 33.476724 34.467862 35.08774 35.302 33.724503 29.516746 23.465878 16.359011 8.9832478 2.1257549 -3.4263665 -6.886 -8.9271296 -10.756233 -12.38488 -13.824627 -15.087046 -16.183704 -17.126162 -17.925988 -18.59475 -19.144011 -19.585339 -19.930296 -20.190452 -20.377372 -20.50262 -20.577764 -20.614369 -20.624 -20.343343 -19.556897 -18.347951 -16.799796 -14.99572 -13.019014 -10.952964 -8.8808638 -6.886 -4.8396803 -2.5805935 -0.14309096 2.4384671 5.1297332 7.896349 10.703956 13.518207 16.304743 19.029206 21.657249 24.154512 26.486639 28.61928 30.518076 32.148678 33.476724 34.467862 35.08774 35.302 33.724503 29.516746 23.465878 16.359011 8.9832478 2.1257549 -3.4263665 -6.886 -8.9271296 -10.756233 -12.38488 -13.824627 -15.087046 -16.183704 -17.126162 -17.925988 -18.59475 -19.144011 -19.585339 -19.930296 -20.190452 -20.377372 -20.50262 -20.577764 -20.614369 -20.624 -20.343343  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358 -0.87934358  }
+  cached translate.ty translateY 7;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.tz translateZ 8;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  arm3_pasted__pSphere7 4 2;
+  cached rotate.rx rotateX 0;
+  { -71.813 -71.736891 -71.515726 -71.160251 -70.68121 -70.089348 -69.39541 -68.610141 -67.744286 -66.808589 -65.813795 -64.77065 -63.689897 -62.582284 -61.458552 -60.329447 -59.205717 -58.098102 -57.017349 -55.974205 -54.979411 -54.043714 -53.177859 -52.39259 -51.698653 -51.10679 -50.627749 -50.272274 -50.051109 -49.975 -50.069429 -50.342777 -50.780133 -51.366588 -52.087234 -52.927156 -53.871447 -54.905201 -56.013501 -57.18144 -58.394113 -59.636601 -60.894 -62.151402 -63.393891 -64.60656 -65.774502 -66.882802 -67.916555 -68.860844 -69.700769 -70.421414 -71.007867 -71.445224 -71.718571 -71.813 -71.736891 -71.515726 -71.160251 -70.68121 -70.089348 -69.39541 -68.610141 -67.744286 -66.808589 -65.813795 -64.77065 -63.689897 -62.582284 -61.458552 -60.329447 -59.205717 -58.098102 -57.017349 -55.974205 -54.979411 -54.043714 -53.177859 -52.39259 -51.698653 -51.10679 -50.627749 -50.272274 -50.051109 -49.975 -50.069429 -50.342777 -50.780133 -51.366588 -52.087234 -52.927156 -53.871447 -54.905201 -56.013501 -57.18144 -58.394113 -59.636601 -60.894 -62.151402 -63.393891 -64.60656 -65.774502 -66.882802 -67.916555 -68.860844 -69.700769 -70.421414 -71.007867 -71.445224 -71.718571 -71.813 -71.736891  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.ty translateY 7;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.tz translateZ 8;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  polySurface4 6 1;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { 0 }
+  static translate.ty translateY 7;
+  { 0 }
+  static translate.tz translateZ 8;
+  { 0 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  polySurface5 6 1;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { 0 }
+  static translate.ty translateY 7;
+  { 0 }
+  static translate.tz translateZ 8;
+  { 0 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  polySurface6 6 1;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { 0 }
+  static translate.ty translateY 7;
+  { 0 }
+  static translate.tz translateZ 8;
+  { 0 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  lowerbody2|pasted__pCylinder6 2 2;
+  cached rotate.rx rotateX 0;
+  { -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.487364 -22.737947 -21.55513 -19.993093 -18.106004 -15.948042 -13.573384 -11.036198 -8.3906622 -5.6909558 -2.9912455 -0.3457101 2.1914722 4.5661337 6.7240931 8.6111843 10.173222 11.356036 12.105455 12.367299 10.232596 4.6047191 -3.3519124 -12.472928 -21.593971 -29.550602 -35.178467 -37.313183 -37.19224 -36.848019 -36.308428 -35.601379 -34.754781 -33.796542 -32.754575 -31.656789 -30.53109 -29.405394 -28.307604 -27.265641 -26.307401 -25.460801 -24.753755 -24.214163 -23.869942 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.749209 -23.487364 -22.737947 -21.55513 -19.993093 -18.106004 -15.948042 -13.573384 -11.036198 -8.3906622 -5.6909558 -2.9912455 -0.3457101 2.1914722 4.5661337 6.7240931 8.6111843 10.173222 11.356036 12.105455 12.367299 10.232596 4.6047191 -3.3519124 -12.472928 -21.593971 -29.550602 -35.178467 -37.313183 -37.19224 -36.848019 -36.308428 -35.601379 -34.754781 -33.796542 -32.754575 -31.656789 -30.53109 -29.405394 -28.307604 -27.265641 -26.307401 -25.460801 -24.753755 -24.214163 -23.869942 -23.749209 -23.749209  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.ty translateY 7;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.tz translateZ 8;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  lowerbody2|pasted__pCylinder6|pSphere63 3 2;
+  cached rotate.rx rotateX 0;
+  { 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 26.04931 30.756065 37.410425 45.038593 52.666783 59.321143 64.027889 65.813213 65.442747 64.388345 62.735492 60.569691 57.97643 55.041192 51.849485 48.486794 45.038601 41.590418 38.227718 35.036021 32.100783 29.507514 27.34172 25.688868 24.634464 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 24.263996 26.04931 30.756065 37.410425 45.038593 52.666783 59.321143 64.027889 65.813213 65.442747 64.388345 62.735492 60.569691 57.97643 55.041192 51.849485 48.486794 45.038601 41.590418 38.227718 35.036021 32.100783 29.507514 27.34172 25.688868 24.634464 24.263996 24.263996  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.ty translateY 7;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.tz translateZ 8;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  pasted__pSphere20 4 5;
+  static rotate.rx rotateX 0;
+  { 3.7874241 }
+  static rotate.ry rotateY 1;
+  { -0.040817462 }
+  static rotate.rz rotateZ 2;
+  { 0.93925427 }
+  static scale.sx scaleX 3;
+  { 0.51072117 }
+  static scale.sy scaleY 4;
+  { 0.51072117 }
+  static scale.sz scaleZ 5;
+  { 0.51072117 }
+  static translate.tx translateX 6;
+  { -0.17948303 }
+  static translate.ty translateY 7;
+  { -56.225252 }
+  static translate.tz translateZ 8;
+  { 2.476626 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  pasted__pCube22 5 2;
+  static rotate.rx rotateX 0;
+  { -3.7875839 }
+  static rotate.ry rotateY 1;
+  { -0.02131672 }
+  static rotate.rz rotateZ 2;
+  { -0.939899 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { -2.3114247 }
+  static translate.ty translateY 7;
+  { 0.25368159 }
+  static translate.tz translateZ 8;
+  { 9.3137923 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  pasted__pCube14 5 1;
+  cached rotate.rx rotateX 0;
+  { -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -4.0829754 -4.9284054 -6.2627597 -8.0249196 -10.153775 -12.588207 -15.267097 -18.129338 -21.113809 -24.159392 -27.204979 -30.18945 -33.051687 -35.730581 -38.16501 -40.293868 -42.056027 -43.39038 -44.235811 -44.531202 -44.355026 -43.845039 -43.029063 -41.934913 -40.590403 -39.023358 -37.261592 -35.332916 -33.265158 -31.086131 -28.823646 -26.505532 -24.159601 -21.813663 -19.49555 -17.233071 -15.054038 -12.986281 -11.057605 -9.2958437 -7.7287945 -6.3842853 -5.2901392 -4.4741611 -3.9641755 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -3.7875839 -4.0829754 -4.9284054 -6.2627597 -8.0249196 -10.153775 -12.588207 -15.267097 -18.129338 -21.113809 -24.159392 -27.204979 -30.18945 -33.051687 -35.730581 -38.16501 -40.293868 -42.056027 -43.39038 -44.235811 -44.531202 -44.355026 -43.845039 -43.029063 -41.934913 -40.590403 -39.023358 -37.261592 -35.332916 -33.265158 -31.086131 -28.823646 -26.505532 -24.159601 -21.813663 -19.49555 -17.233071 -15.054038 -12.986281 -11.057605 -9.2958437 -7.7287945 -6.3842853 -5.2901392 -4.4741611 -3.9641755 -3.7875839 -3.7875839  }
+  cached rotate.ry rotateY 1;
+  { -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672 -0.02131672  }
+  cached rotate.rz rotateZ 2;
+  { -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899 -0.939899  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247 -2.3114247  }
+  cached translate.ty translateY 7;
+  { 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159 0.25368159  }
+  cached translate.tz translateZ 8;
+  { 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923 9.3137923  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  pasted__pCube21 5 2;
+  static rotate.rx rotateX 0;
+  { -3.7875839 }
+  static rotate.ry rotateY 1;
+  { -0.02131672 }
+  static rotate.rz rotateZ 2;
+  { -0.939899 }
+  static scale.sx scaleX 3;
+  { 1 }
+  static scale.sy scaleY 4;
+  { 1 }
+  static scale.sz scaleZ 5;
+  { 1 }
+  static translate.tx translateX 6;
+  { -2.3114247 }
+  static translate.ty translateY 7;
+  { 0.25368159 }
+  static translate.tz translateZ 8;
+  { 9.3137923 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  lowerbody2|pasted__pSphere23 2 2;
+  cached rotate.rx rotateX 0;
+  { 12.367 10.663296 6.0973702 -0.51300132 -8.3500368 -16.595964 -24.432999 -31.043373 -35.609297 -37.313 -37.29894 -37.252579 -37.167651 -37.037887 -36.857018 -36.618776 -36.316893 -35.945101 -35.49713 -34.966715 -34.347584 -33.633471 -32.818107 -31.895224 -30.858555 -29.701826 -28.418777 -27.003136 -25.44863 -23.749 -20.838707 -16.1098 -10.242433 -3.9167232 2.1872187 7.3892289 11.009198 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 10.663296 6.0973702 -0.51300132 -8.3500368 -16.595964 -24.432999 -31.043373 -35.609297 -37.313 -37.29894 -37.252579 -37.167651 -37.037887 -36.857018 -36.618776 -36.316893 -35.945101 -35.49713 -34.966715 -34.347584 -33.633471 -32.818107 -31.895224 -30.858555 -29.701826 -28.418777 -27.003136 -25.44863 -23.749 -20.838707 -16.1098 -10.242433 -3.9167232 2.1872187 7.3892289 11.009198 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 12.367 10.663296  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.ty translateY 7;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.tz translateZ 8;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  lowerbody2|pasted__pSphere23|pasted__pCylinder12 3 5;
+  cached rotate.rx rotateX 0;
+  { 24.264 25.688863 29.507495 35.035964 41.590332 48.486669 55.041036 60.569507 64.388138 65.813 65.511769 64.649628 63.288897 61.491905 59.320968 56.838414 54.10657 51.187752 48.144286 45.038501 41.932712 38.889246 35.970432 33.238584 30.756033 28.585094 26.788102 25.427373 24.56523 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 25.688863 29.507495 35.035964 41.590332 48.486669 55.041036 60.569507 64.388138 65.813 65.511769 64.649628 63.288897 61.491905 59.320968 56.838414 54.10657 51.187752 48.144286 45.038501 41.932712 38.889246 35.970432 33.238584 30.756033 28.585094 26.788102 25.427373 24.56523 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 24.264 25.688863  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sy scaleY 4;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached scale.sz scaleZ 5;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+  cached translate.tx translateX 6;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.ty translateY 7;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached translate.tz translateZ 8;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  pasted__pCube24 4 3;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 0.51072117 }
+  static scale.sy scaleY 4;
+  { 0.51072117 }
+  static scale.sz scaleZ 5;
+  { 0.51072117 }
+  static translate.tx translateX 6;
+  { 13.843492 }
+  static translate.ty translateY 7;
+  { -56.225252 }
+  static translate.tz translateZ 8;
+  { 2.476626 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  pasted__pCube25 4 2;
+  cached rotate.rx rotateX 0;
+  { -44.531 -43.133778 -39.389222 -33.967999 -27.540778 -20.778221 -14.351001 -8.9297758 -5.1852217 -3.788 -3.9401925 -4.3819214 -5.0909153 -6.0449004 -7.2216074 -8.5987631 -10.154093 -11.865329 -13.710198 -15.666424 -17.711742 -19.823875 -21.98055 -24.159499 -26.338446 -28.495126 -30.607257 -32.652571 -34.608803 -36.453669 -38.164904 -39.720238 -41.097392 -42.274097 -43.228085 -43.937078 -44.378807 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -43.133778 -39.389222 -33.967999 -27.540778 -20.778221 -14.351001 -8.9297758 -5.1852217 -3.788 -3.9401925 -4.3819214 -5.0909153 -6.0449004 -7.2216074 -8.5987631 -10.154093 -11.865329 -13.710198 -15.666424 -17.711742 -19.823875 -21.98055 -24.159499 -26.338446 -28.495126 -30.607257 -32.652571 -34.608803 -36.453669 -38.164904 -39.720238 -41.097392 -42.274097 -43.228085 -43.937078 -44.378807 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -44.531 -43.133778  }
+  cached rotate.ry rotateY 1;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached rotate.rz rotateZ 2;
+  { 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0  }
+  cached scale.sx scaleX 3;
+  { 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117  }
+  cached scale.sy scaleY 4;
+  { 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117  }
+  cached scale.sz scaleZ 5;
+  { 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117 0.51072117  }
+  cached translate.tx translateX 6;
+  { 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492 13.843492  }
+  cached translate.ty translateY 7;
+  { -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252 -56.225252  }
+  cached translate.tz translateZ 8;
+  { 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626 2.476626  }
+  cached v visibility 9;
+  { 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1  }
+}
+dagNode {
+  pasted__pCube23 4 3;
+  static rotate.rx rotateX 0;
+  { 0 }
+  static rotate.ry rotateY 1;
+  { 0 }
+  static rotate.rz rotateZ 2;
+  { 0 }
+  static scale.sx scaleX 3;
+  { 0.51072117 }
+  static scale.sy scaleY 4;
+  { 0.51072117 }
+  static scale.sz scaleZ 5;
+  { 0.51072117 }
+  static translate.tx translateX 6;
+  { 13.843492 }
+  static translate.ty translateY 7;
+  { -56.225252 }
+  static translate.tz translateZ 8;
+  { 2.476626 }
+  static v visibility 9;
+  { 1 }
+}
+dagNode {
+  pasted__pSphere21 4 3;
+  static rotate.rx rotateX 0;
+  { 3.7874241 }
+  static rotate.ry rotateY 1;
+  { -0.040817462 }
+  static rotate.rz rotateZ 2;
+  { 0.93925427 }
+  static scale.sx scaleX 3;
+  { 0.51072117 }
+  static scale.sy scaleY 4;
+  { 0.51072117 }
+  static scale.sz scaleZ 5;
+  { 0.51072117 }
+  static translate.tx translateX 6;
+  { 13.843492 }
+  static translate.ty translateY 7;
+  { -56.225252 }
+  static translate.tz translateZ 8;
+  { 2.476626 }
+  static v visibility 9;
+  { 1 }
+}
